@@ -1,0 +1,6 @@
+{	
+  // Default to 2 spaces per tab
+  "editor.tabSize": 2,
+  // Insert spaces instead of hard tab.
+  "editor.insertSpaces": true,
+}

@@ -1,0 +1,46 @@
+{
+  "name": "base-npm-library-es6",
+  "version": "0.0.2",
+  "description": "Node.js Application Starter Pack for ES6 NPM Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-templates/base-npm-library-es6.git"
+  },
+  "keywords": [
+    "nodejs",
+    "example",
+    "starter",
+    "pack",
+    "gulp",
+    "mocha",
+    "chai",
+    "coverage",
+    "istanbul",
+    "unit-testing",
+    "tdd",
+    "bdd",
+    "lint",
+    "tutorial"
+  ],
+  "author": "Steve Gray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-templates/base-npm-library-es6/issues"
+  },
+  "homepage": "https://github.com/node-templates/base-npm-library-es6#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "config": "^1.19.0",
+    "eslint-config-airbnb": "^4.0.0",
+    "eslint-plugin-react": "^3.16.1",
+    "gulp": "^3.9.0",
+    "gulp-esdoc": "^0.2.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.2.0"
+  }
+}

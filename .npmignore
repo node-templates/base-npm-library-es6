@@ -1,3 +1,10 @@
+# Build Support and Testing Code
+.vscode
+bld/
+config/
+tst/
+gulpfile.js
+
 # Logs
 logs
 *.log
